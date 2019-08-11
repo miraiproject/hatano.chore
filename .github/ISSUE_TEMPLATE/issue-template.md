@@ -31,7 +31,7 @@ issue
 
 **If you chose "NO", why is that? (もしできないのならなぜですか？)**
 
-**Did you ask ウサマさん or ドリさん about the deadline if you can't keep it or postpone it? (期限を守れなかったり、延期するときはウサマさんかドリさんに連絡・相談しましたか？)**
+**Did you ask  about the deadline if you can't keep it or postpone it? (期限を守れなかったり、延期するときはに連絡・相談しましたか？)**
 
 - [ ] YES
 - [ ] NO
